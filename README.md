@@ -3,7 +3,7 @@
 An interactive, production-ready data science web application engineered for **Parcl Co. Limited**. This platform aggregates customer behavioral logs, handles complex data preprocessing, and implements an optimized unsupervised Machine Learning pipeline to mathematically segment the consumer base into strategic profiles.
 
 ## Deployed Application
-🔗 **Live Interactive App:** [manjeet-parcl-market-intelligence.streamlit.app](https://manjeet-parcl-market-intelligence.streamlit.app/)
+🔗 **Live Interactive App:** [manjeet-parcl-market-intelligence.streamlit.app](https://manjeet-parcl-market-intelligence.streamlit.app/) 
 
 ---
 
